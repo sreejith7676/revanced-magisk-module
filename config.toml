@@ -10,7 +10,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 build-mode = "both"
 excluded-patches = ""
 included-patches = ""
-version = "19.42.41"
+version = "19.43.41"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube" # fallback
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
